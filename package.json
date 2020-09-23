@@ -1,5 +1,5 @@
 {
-  "name": "circleti",
+  "name": "circleci",
   "version": "1.0.0",
   "description": "CircleCI Technical Challenge",
   "main": "index.js",
